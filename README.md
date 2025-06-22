@@ -78,3 +78,7 @@ This dashboard supports multiple critical functions:
 ## 📷 Preview
 
 ![Covid-19 Indonesia Until 2022 Dashboard](Covid-19%20Indonesia%20Until%202022%20Dashboard.png)
+
+## Link
+
+[Dashboard](https://public.tableau.com/app/profile/rio.trinaldy/viz/Covid19Indonesiauntil2022/Dashboard?publish=yes)
